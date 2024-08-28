@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/watkinsn/Documents/GitHub/Death-Cheater/DeathCheater/Content/DC_Assets/Street_Knife/Street_Knife_Asset.uasset",
+				"/Users/watkinsn/Documents/GitHub/Death-Cheater/DeathCheater/Content/DC_Assets/Street_Knife/Handle.uasset",
+				"/Users/watkinsn/Documents/GitHub/Death-Cheater/DeathCheater/Content/DC_Assets/Street_Knife/Blade_001.uasset",
+				"/Users/watkinsn/Documents/GitHub/Death-Cheater/DeathCheater/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"/Users/martinz/Documents/Unreal Projects/DeathCheater/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
 			]
 		}
