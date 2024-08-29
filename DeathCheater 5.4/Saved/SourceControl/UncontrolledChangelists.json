@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/olive/OneDrive/Documents/GitHub/Death-Cheater/DeathCheater 5.4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/olive/OneDrive/Documents/GitHub/Death-Cheater/DeathCheater 5.4/Content/blueprints/damge_test_Blueprint.uasset",
+				"C:/Users/olive/OneDrive/Documents/GitHub/Death-Cheater/DeathCheater 5.4/Content/Blueprints/health.uasset",
+				"C:/Users/olive/OneDrive/Documents/GitHub/Death-Cheater/DeathCheater 5.4/Content/blueprints/Street_Knife_Asset_Blueprint.uasset",
+				"C:/Users/olive/OneDrive/Documents/GitHub/Death-Cheater/DeathCheater 5.4/Content/DC_Assets/Street_Knife/Street_Knife_Asset.uasset",
+				"C:/Users/olive/OneDrive/Documents/GitHub/Death-Cheater/DeathCheater 5.4/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"/Users/watkinsn/Documents/GitHub/Death-Cheater/DeathCheater/Content/DC_Assets/Street_Knife/Street_Knife_Asset.uasset",
+				"/Users/watkinsn/Documents/GitHub/Death-Cheater/DeathCheater/Content/DC_Assets/Street_Knife/Handle.uasset",
+				"/Users/watkinsn/Documents/GitHub/Death-Cheater/DeathCheater/Content/DC_Assets/Street_Knife/Blade_001.uasset",
+				"/Users/watkinsn/Documents/GitHub/Death-Cheater/DeathCheater/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"/Users/martinz/Documents/Unreal Projects/DeathCheater/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+			]
+		}
+	]
+}
