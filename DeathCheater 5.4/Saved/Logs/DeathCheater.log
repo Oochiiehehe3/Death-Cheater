@@ -26689,3 +26689,4 @@ Script call stack:
 [2024.08.29-05.13.45:055][911]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
 [2024.08.29-05.13.45:067][911]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
 [2024.08.29-05.13.45:067][911]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAC889F2E-4F95-CCCF-2887-AAB28ECA3320%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=1fbe54784f7b6aa8b20158906ee307be%7C22402a36ba634283bf9d847bb18f18a3%7Cf545b568-c444-41ff-8096-87a765239672&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.08.29-05.13.45:094][911]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
